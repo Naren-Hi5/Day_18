@@ -26,4 +26,4 @@ for _ in range(200):
 screen = Screen()
 screen.exitonclick()
 
-#Done and dusted
+#Done and dusted. But some bug is there in the main.py file.
